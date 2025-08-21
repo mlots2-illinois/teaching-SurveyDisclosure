@@ -1,0 +1,1662 @@
+Data File: BRSW5ED (Description Only Codebook)
+
+1) MOTHERLODE_ID
+Motherlodeid
+
+
+
+2) RESPONDENT_DATE
+Respondentdate
+
+
+
+3) RESPONDENT_LANGUAGE
+Respondentlanguage
+
+
+
+4) ENTITY_ID
+Entityid
+
+
+
+5) SCAN_RESPONDENT_ID
+Scanrespondentid
+
+
+
+6) LANG1
+Lang1
+
+
+
+7) Q1
+[I. Religious Behaviors and Attitudes] With what religious family, if any, do you most closely identify? (Please mark only one box.)
+
+
+
+8) Q2_DK
+If possible, please provide the specific name of your denomination. For example, if you are Baptist, are you Southern Baptist Convention, American Baptist Churches in the USA, or some other Baptist denomination? Don't know
+
+
+
+9) Q3
+How religious do you consider yourself to be?
+
+
+
+10) Q3_1
+How spiritual do you consider yourself to be?
+
+
+
+11) Q4
+How often do you attend religious services at a place of worship?
+
+
+
+12) Q6_STATE
+Where is this place of worship located? (Please write in whatever information you know. If exact address is not known, please give a description of the location, such as the building name or the nearest street or intersection.) State
+
+
+
+13) Q6_ZIP
+Where is this place of worship located? (Please write in whatever information you know. If exact address is not known, please give a description of the location, such as the building name or the nearest street or intersection.) Zip Code
+
+
+
+14) Q7
+How long have you attended your current place of worship?
+
+
+
+15) R9
+Approximately how many minutes does it usually take you to get from your home to your place of worship?
+
+
+
+16) Q8
+On average, how many people attend services at your current place of worship? Just your best estimate will do.
+
+
+
+17) Q9
+During the last year, approximately how much money, if any, did you and other family members in your household contribute to your current place of worship?
+
+
+
+18) Q10
+About how often do you spend time alone praying outside of religious services?
+
+
+
+19) Q11
+Outside of attending religious services, about how often do you spend time alone reading the Bible, Koran, Torah, or other sacred book?
+
+
+
+20) R14
+[14] About how often do you practice meditation outside of religious services?
+
+
+
+21) Q14A
+How many of your friends: Attend your place of worship?
+
+
+
+22) Q14B
+How many of your friends: Attend a different place of worship?
+
+
+
+23) Q14C
+How many of your friends: Do not attend religious services?
+
+
+
+24) Q17
+Which one statement comes closest to your personal beliefs about the Bible? (Please mark only one box.)
+
+
+
+25) Q18
+Which one statement comes closest to your personal beliefs about God? (Please mark only one box.)
+
+
+
+26) Q19A
+Based on your personal understanding of God, please rate the extent to which you agree or disagree with the following statements: God is concerned with the well-being of the world.
+
+
+
+27) Q19B
+Based on your personal understanding of God, please rate the extent to which you agree or disagree with the following statements: God is angered by my personal sins.
+
+
+
+28) Q19C
+Based on your personal understanding of God, please rate the extent to which you agree or disagree with the following statements: God is directly involved in world affairs.
+
+
+
+29) Q19D
+Based on your personal understanding of God, please rate the extent to which you agree or disagree with the following statements: God is concerned with my personal well-being.
+
+
+
+30) Q19E
+Based on your personal understanding of God, please rate the extent to which you agree or disagree with the following statements: God is directly involved in my affairs.
+
+
+
+31) Q19F
+Based on your personal understanding of God, please rate the extent to which you agree or disagree with the following statements: God is angered by human sins.
+
+
+
+32) Q20I
+In your opinion, how well do each of the following words describe God? Ever-present
+
+
+
+33) Q20B
+In your opinion, how well do each of the following words describe God? Critical
+
+
+
+34) Q20J
+In your opinion, how well do each of the following words describe God? Distant
+
+
+
+35) Q20D
+In your opinion, how well do each of the following words describe God? Punishing
+
+
+
+36) Q20F
+In your opinion, how well do each of the following words describe God? Wrathful
+
+
+
+37) Q20G
+In your opinion, how well do each of the following words describe God? Forgiving
+
+
+
+38) R20A
+Please rate the extent to which you agree or disagree with the following statements: God seems impersonal to me.
+
+
+
+39) R20B
+Please rate the extent to which you agree or disagree with the following statements: God seems to have little or no interest in my personal problems.
+
+
+
+40) R20C
+Please rate the extent to which you agree or disagree with the following statements: God knows when I need support.
+
+
+
+41) R20D
+Please rate the extent to which you agree or disagree with the following statements: I feel that God is generally responsive to me.
+
+
+
+42) R20E
+Please rate the extent to which you agree or disagree with the following statements: I decide what to do without relying on God.
+
+
+
+43) R20F
+Please rate the extent to which you agree or disagree with the following statements: When good or bad things happen to me, I see it as part of God's plan for me.
+
+
+
+44) R20G
+Please rate the extent to which you agree or disagree with the following statements: God has decided what my life will be.
+
+
+
+45) R20H
+Please rate the extent to which you agree or disagree with the following statements: I depend on God for help and guidance.
+
+
+
+46) R22
+How certain are you that you will get into Heaven?
+
+
+
+47) R23
+What is the extent of your fear of hell?
+
+
+
+48) R25
+When you were age 12, about how often did you attend religious services?
+
+
+
+49) R26
+How often do you turn to your religion or your spiritual beliefs to help you deal with your daily problems?
+
+
+
+50) Q26
+[II. Morality and Politics] If you were unsure of what was right or wrong in a particular situation, which of the following best describes how you would decide what to do? Would you: (Please mark only one box.)
+
+
+
+51) Q21
+What is the primary way you know how God wants you to live? Choose the best answer that applies to you.
+
+
+
+52) MP4A
+Please rate the extent to which you agree or disagree with the following statements: Transgender people should be allowed to use the public restroom of their choice.
+
+
+
+53) Q61B
+Please rate the extent to which you agree or disagree with the following statements: Gays and lesbians should be allowed to legally marry.
+
+
+
+54) Q61D
+Please rate the extent to which you agree or disagree with the following statements: People choose to be gay/lesbian.
+
+
+
+55) MP4D
+Please rate the extent to which you agree or disagree with the following statements: Men are better suited emotionally for politics than women.
+
+
+
+56) MP4E
+Please rate the extent to which you agree or disagree with the following statements: A preschool child will suffer if his or her mother works.
+
+
+
+57) MP4F
+Please rate the extent to which you agree or disagree with the following statements: It is God's will that women care for children.
+
+
+
+58) MP4G
+Please rate the extent to which you agree or disagree with the following statements: A husband should earn a larger salary than his wife.
+
+
+
+59) MP4H
+Please rate the extent to which you agree or disagree with the following statements: Police officers in the United States treat blacks the same as whites.
+
+
+
+60) MP4I
+Please rate the extent to which you agree or disagree with the following statements: Police officers in the United States shoot blacks more often because they are more violent than whites.
+
+
+
+61) MP4J
+Please rate the extent to which you agree or disagree with the following statements: Refugees from the Middle East pose a terrorist threat to the United States.
+
+
+
+62) MP4K
+Please rate the extent to which you agree or disagree with the following statements: Illegal immigrants from Mexico are mostly dangerous criminals.
+
+
+
+63) MP7
+In the 2016 presidential election, some people voted, some people did not vote and some people planned to vote but were unable to due to an illness or difficulty getting to the polls. For whom did you vote in the 2016 presidential election?
+
+
+
+64) MP6
+In the 2016 presidential election, some people voted, some people did not vote and some people planned to vote but were unable to due to an illness or difficulty getting to the polls: Whom did you want to win the 2016 presidential election?
+
+
+
+65) MP8A
+In the year leading up to the 2016 presidential election, did you... Watch or listen to political debates or candidate's speeches?
+
+
+
+66) Q30C
+In the year leading up to the 2016 presidential election, did you... Give money to a political campaign/party/candidate?
+
+
+
+67) Q30E
+In the year leading up to the 2016 presidential election, did you... Attend a political rally or meeting?
+
+
+
+68) Q31
+How would you describe yourself politically?
+
+
+
+69) Q32
+Do you think of yourself as a Republican, Democrat, or Independent?
+
+
+
+70) Q36A
+How much would you say that you trust people in general?
+
+
+
+71) MP12A
+Please rate the extent to which you agree or disagree with the following statements: The federal government should declare the United States as a Christian nation.
+
+
+
+72) MP12B
+Please rate the extent to which you agree or disagree with the following statements: The federal government should advocate Christian values.
+
+
+
+73) MP12C
+Please rate the extent to which you agree or disagree with the following statements: The federal government should enforce strict separation of church and state.
+
+
+
+74) MP12D
+Please rate the extent to which you agree or disagree with the following statements: The federal government should allow the display of religious symbols in public spaces.
+
+
+
+75) MP12E
+Please rate the extent to which you agree or disagree with the following statements: The success of the United States is part of God's plan.
+
+
+
+76) MP12F
+Please rate the extent to which you agree or disagree with the following statements: The federal government should allow prayer in public schools.
+
+
+
+77) MP14
+Some people think that the United States is a Christian nation and some people think that the United States is not a Christian nation. Which statement comes closest to your view?
+
+
+
+78) MP15A
+Please rate the extent to which you agree or disagree with the following statements: Muslims hold values that are morally inferior to the values of people like me.
+
+
+
+79) MP15B
+Please rate the extent to which you agree or disagree with the following statements: Muslims want to limit the personal freedoms of people like me.
+
+
+
+80) MP15C
+Please rate the extent to which you agree or disagree with the following statements: Muslims endanger the physical safety of people like me.
+
+
+
+81) MP15D
+Please rate the extent to which you agree or disagree with the following statements: Conservative Christians hold values that are morally inferior to the values of people like me.
+
+
+
+82) MP15E
+Please rate the extent to which you agree or disagree with the following statements: Conservative Christians want to limit the personal freedoms of people like me.
+
+
+
+83) MP15F
+Please rate the extent to which you agree or disagree with the following statements: Conservative Christians endanger the physical safety of people like me.
+
+
+
+84) MP15G
+Please rate the extent to which you agree or disagree with the following statements: Jews hold values that are morally inferior to the values of people like me.
+
+
+
+85) MP15H
+Please rate the extent to which you agree or disagree with the following statements: Jews want to limit the personal freedoms of people like me.
+
+
+
+86) MP15I
+Please rate the extent to which you agree or disagree with the following statements: Jews endanger the physical safety of people like me.
+
+
+
+87) MP15J
+Please rate the extent to which you agree or disagree with the following statements: Atheists hold values that are morally inferior to the values of people like me.
+
+
+
+88) MP15K
+Please rate the extent to which you agree or disagree with the following statements: Atheists want to limit the personal freedoms of people like me.
+
+
+
+89) MP15L
+Please rate the extent to which you agree or disagree with the following statements: Atheists endanger the physical safety of people like me.
+
+
+
+90) H3
+[III. Health] In general, would you say your health is:
+
+
+
+91) Q45
+In general, how happy are you with your life as a whole these days?
+
+
+
+92) H5A
+On a scale from zero to 10 where zero represents the worst possible health for you and 10 represents the best possible health for you, please rate your health at the following points in time: Your current health.
+
+
+
+93) H5B
+On a scale from zero to 10 where zero represents the worst possible health for you and 10 represents the best possible health for you, please rate your health at the following points in time: Your health 10 years ago.
+
+
+
+94) H5C
+On a scale from zero to 10 where zero represents the worst possible health for you and 10 represents the best possible health for you, please rate your health at the following points in time: Your expected health 10 years in the future.
+
+
+
+95) H6_HR
+During the past MONTH, on average, how many hours of sleep did you get each night?
+
+
+
+96) H7A
+In the past MONTH, how often have you: Had trouble falling asleep.
+
+
+
+97) H7B
+In the past MONTH, how often have you: Felt rested in the morning.
+
+
+
+98) H8A
+Do you have any physical health condition or problem that limits the kinds of activity or amount of activity that you can carry out?
+
+
+
+99) H8B
+Do you currently take tranquilizers, antidepressants, or pills for anxiety?
+
+
+
+100) H9
+Do you smoke regularly, occasionally or never?
+
+
+
+101) H10
+During the past 12 MONTHS, how often did you usually have any kind of drink containing alcohol? By a drink we mean either a bottle of beer, a wine cooler, a glass of wine or a mixed drink containing one shot of liquor.
+
+
+
+102) H11
+During the past 12 MONTHS, how many alcoholic drinks did you have on a typical day when you drank alcohol? Your best estimate is fine.
+
+
+
+103) H12
+[47] How many DAYS per WEEK do you do exercise for at least 30 minutes?
+
+
+
+104) H13A
+In the past WEEK, about how often have you had the following feelings? I was bothered by things that usually don't bother me.
+
+
+
+105) H13B
+In the past WEEK, about how often have you had the following feelings? I could not shake off the blues, even with help from my family and my friends.
+
+
+
+106) H13C
+In the past WEEK, about how often have you had the following feelings? I felt I was just as good as other people.
+
+
+
+107) H13D
+In the past WEEK, about how often have you had the following feelings? I had trouble keeping my mind on what I was doing.
+
+
+
+108) H13E
+In the past WEEK, about how often have you had the following feelings? I felt depressed.
+
+
+
+109) H13F
+In the past WEEK, about how often have you had the following feelings? I felt too tired to do things.
+
+
+
+110) H13G
+In the past WEEK, about how often have you had the following feelings? I felt happy.
+
+
+
+111) H13H
+In the past WEEK, about how often have you had the following feelings? I enjoyed life.
+
+
+
+112) H13I
+In the past WEEK, about how often have you had the following feelings? I felt sad.
+
+
+
+113) H13J
+In the past WEEK, about how often have you had the following feelings? I felt that people disliked me.
+
+
+
+114) H14A
+[49a] In the past WEEK, about how often have you had the following feelings? I had fear of the worst happening.
+
+
+
+115) H14B
+[49b] In the past WEEK, about how often have you had the following feelings? I was nervous.
+
+
+
+116) H14C
+In the past WEEK, about how often have you had the following feelings? I felt my hands trembling.
+
+
+
+117) H14D
+In the past WEEK, about how often have you had the following feelings? I had a fear of dying.
+
+
+
+118) H14E
+In the past WEEK, about how often have you had the following feelings? I felt faint.
+
+
+
+119) H14F
+In the past WEEK, about how often have you had the following feelings? I felt bored.
+
+
+
+120) H14G
+In the past WEEK, about how often have you had the following feelings? I felt that I missed out on a fun activity with others.
+
+
+
+121) H14H
+In the past WEEK, about how often have you had the following feelings? I felt angry.
+
+
+
+122) H15A
+Please rate the extent to which you agree or disagree with the following statements: I feel that my life lacks dignity.
+
+
+
+123) H15B
+Please rate the extent to which you agree or disagree with the following statements: I have dignity as a person.
+
+
+
+124) H15C
+Please rate the extent to which you agree or disagree with the following statements: People generally treat me with dignity.
+
+
+
+125) H15D
+Please rate the extent to which you agree or disagree with the following statements: People generally are not respectful toward me.
+
+
+
+126) H15E
+Please rate the extent to which you agree or disagree with the following statements: My dignity is not up to me.
+
+
+
+127) H15F
+Please rate the extent to which you agree or disagree with the following statements: I determine my own dignity.
+
+
+
+128) H16A
+Please rate the extent to which you agree or disagree with the following statements: I am looking for something that makes my life feel meaningful.
+
+
+
+129) H16B
+Please rate the extent to which you agree or disagree with the following statements: I have a good sense of what makes my life meaningful.
+
+
+
+130) H16C
+Please rate the extent to which you agree or disagree with the following statements: I have discovered a satisfying life purpose.
+
+
+
+131) H16D
+Please rate the extent to which you agree or disagree with the following statements: My life has no clear purpose.
+
+
+
+132) H17B
+What best describes your answer: How much do you feel other people pay attention to you?
+
+
+
+133) H17C
+What best describes your answer: How much do you feel others would miss you if you went away?
+
+
+
+134) H17D
+What best describes your answer: How interested are people generally in what you say?
+
+
+
+135) H17E
+What best describes your answer: How much do other people depend on you?
+
+
+
+136) H17A
+What best describes your answer: How important do you feel you are to other people?
+
+
+
+137) H18A
+Please rate the extent to which you agree or disagree with the following statements: I have little control over the things that happen to me.
+
+
+
+138) H18B
+Please rate the extent to which you agree or disagree with the following statements: There is really no way I can solve some of the problems I have.
+
+
+
+139) H18C
+Please rate the extent to which you agree or disagree with the following statements: I often feel helpless in dealing with problems of life.
+
+
+
+140) H18D
+Please rate the extent to which you agree or disagree with the following statements: I can do just about anything I really set my mind to.
+
+
+
+141) H19
+Do you have health insurance coverage?
+
+
+
+142) H20
+Did you get your health insurance policy through a state or federal exchange? By a 'state or federal exchange', we mean an exchange made available through the Affordable Care Act, also known as Obamacare.
+
+
+
+143) H21
+In your opinion, do you think the Affordable Care Act, also referred to as Obamacare, is mostly a positive or a negative thing or has no impact on the country?
+
+
+
+144) L1_YEARS
+[IV. Life and Community] How many years have you lived in your current neighborhood? [Write-in]
+
+
+
+145) L2
+Taking everything into account, how satisfied are you with where you live?
+
+
+
+146) L3A
+Have you personally done any of the following in the last 12 months? Attended a neighborhood event, such as a picnic, parade, or street fair.
+
+
+
+147) L3B
+Have you personally done any of the following in the last 12 months? Donated money to help a local organization or neighbor.
+
+
+
+148) L3C
+Have you personally done any of the following in the last 12 months? Worked with neighbors to make a positive change in the local community.
+
+
+
+149) L4
+How satisfied are you with your household's current financial situation?
+
+
+
+150) L5
+Which of the following best describes your (your household's) ability to get along on your (its) income?
+
+
+
+151) L6A
+In terms of having money, education, and a good job, how do you compare to: Other Americans.
+
+
+
+152) L6B
+In terms of having money, education, and a good job, how do you compare to: Your neighbors.
+
+
+
+153) L6C
+In terms of having money, education, and a good job, how do you compare to: Your parents when they were your age.
+
+
+
+154) L6D
+In terms of having money, education, and a good job, how do you compare to: Your friends.
+
+
+
+155) L7A
+Please give your best estimation of: Your current social class.
+
+
+
+156) L7B
+Please give your best estimation of: Your social class while you were growing up.
+
+
+
+157) L7C
+Please give your best estimation of: Your spouse's or partner's social class while he or she was growing up.
+
+
+
+158) L8
+Please think about where you would like your life to be 10 years from now. Do you think you are likely or unlikely to reach your 10 year goal?
+
+
+
+159) L9A
+How close do you feel to: Your family.
+
+
+
+160) L9B
+How close do you feel to: Your friends.
+
+
+
+161) L9C
+How close do you feel to: Your neighbors.
+
+
+
+162) L10
+Which parent(s) did you live with when you were age 16?
+
+
+
+163) L11
+Are you currently in a relationship with a romantic partner?
+
+
+
+164) L12
+How often would you say you had sex on average in the last 12 months?
+
+
+
+165) L13
+Overall, how satisfied are you with your sex life?
+
+
+
+166) L14_1A
+For each of the following events, please indicate if the event happened to you personally in the past year, and what its impact on you personally was: Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Had a child
+
+
+
+167) L14_1B
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Got married
+
+
+
+168) L14_1C
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Got divorced/separated
+
+
+
+169) L14_1D
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Experienced a death of a loved one
+
+
+
+170) L14_1E
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Got a new job/promotion
+
+
+
+171) L14_1F
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Lost a job
+
+
+
+172) L14_1G
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Got a long-term illness or injury
+
+
+
+173) L14_1H
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Moved
+
+
+
+174) L14_1I
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Had house foreclosed
+
+
+
+175) L14_1J
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Had a crisis of faith
+
+
+
+176) L14_1K
+Did any of these things occur in the PAST YEAR? What was its effect on you? Happened in the past year: Failed at something important to me
+
+
+
+177) L14_2A
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Had a child
+
+
+
+178) L14_2B
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Got married
+
+
+
+179) L14_2C
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Got divorced/separated
+
+
+
+180) L14_2D
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Experienced a death of a loved one
+
+
+
+181) L14_2E
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Got a new job/promotion
+
+
+
+182) L14_2F
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Lost a job
+
+
+
+183) L14_2G
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Got a long-term illness or injury
+
+
+
+184) L14_2H
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Moved
+
+
+
+185) L14_2I
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Had house foreclosed
+
+
+
+186) L14_2J
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Had a crisis of faith
+
+
+
+187) L14_2K
+Did any of these things occur in the PAST YEAR? What was its effect on you? Impact on you personally: Failed at something important to me
+
+
+
+188) L15A
+Please rate the extent to which you agree or disagree with the following: I tend to bounce back quickly after hard times.
+
+
+
+189) L15B
+Please rate the extent to which you agree or disagree with the following: It does not take me long to recover from a stressful event.
+
+
+
+190) L15C
+Please rate the extent to which you agree or disagree with the following: I have a hard time making it through stressful events.
+
+
+
+191) L16A
+IF YOU ARE EMPLOYED FOR AN EMPLOYER, CONTINUE. OTHERWISE, PLEASE SKIP TO QUESTION VT1. Please rate the extent to which you agree or disagree with the following about your place of work: I really feel as if this organization's problems are my own. [Note: Consider the skip pattern above.]
+
+
+
+192) L16B
+Please rate the extent to which you agree or disagree with the following about your place of work: This organization has a great deal of personal meaning to me.
+
+
+
+193) T1
+[V. Technology] Please answer the following questions about your activity on the Internet: Do you have high-speed Internet access in your home?
+
+
+
+194) T2
+Please answer the following questions about your activity on the Internet: Do you personally own a smartphone?
+
+
+
+195) T3
+Please answer the following questions about your activity on the Internet: Do you have a profile on a social networking site such as Facebook, Twitter or Instagram?
+
+
+
+196) T3_1
+Please answer the following questions about your activity on the Internet: Have you ever been harassed or threatened by someone on the Internet?
+
+
+
+197) T4A
+On average, how many hours per day do you spend: Using the Internet, for any reason?
+
+
+
+198) T4B
+On average, how many hours per day do you spend: Using the Internet to access or use social media?
+
+
+
+199) T4C
+On average, how many hours per day do you spend: Using the Internet for your job or paid work?
+
+
+
+200) T4D
+On average, how many hours per day do you spend: Text messaging with friends and family?
+
+
+
+201) T4E
+On average, how many hours per day do you spend: Talking on the phone with friends and family?
+
+
+
+202) T4F
+On average, how many hours per day do you spend: Watching TV (including Netflix® and streaming services)?
+
+
+
+203) T4_1A
+How OFTEN do you use the Internet to: Access health information?
+
+
+
+204) T4_1B
+How OFTEN do you use the Internet to: Access religious or spiritual content?
+
+
+
+205) T4_1C
+How OFTEN do you use the Internet to: Visit adult websites?
+
+
+
+206) T4_1D
+How OFTEN do you use the Internet to: Share your political opinions?
+
+
+
+207) T4_1E
+How OFTEN do you use the Internet to: Share your religious views?
+
+
+
+208) T4_1F
+How OFTEN do you use the Internet to: Gamble for money?
+
+
+
+209) T4_1G
+How OFTEN do you use the Internet to: Play video/online games?
+
+
+
+210) T4_1H
+How OFTEN do you use the Internet to: Provide emotional support to someone you've never met?
+
+
+
+211) T5A
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? Social life
+
+
+
+212) T5B
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? Spiritual life
+
+
+
+213) T5C
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? Work productivity
+
+
+
+214) T5D
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? How close I feel to my family
+
+
+
+215) T5E
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? How close I feel to my friends
+
+
+
+216) T5F
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? My self-esteem
+
+
+
+217) T5G
+From your personal experience, do you think your use of the Internet has a very positive, mostly positive, mostly negative, very negative, or has it had no effect on these areas of your life? My optimism about the future
+
+
+
+218) T7A
+To what extent do you agree with the following? Technology exposes me to new perspectives.
+
+
+
+219) T7C
+To what extent do you agree with the following? The internet makes me lonelier and more isolated.
+
+
+
+220) T7D
+To what extent do you agree with the following? Science and technology will make religion obsolete.
+
+
+
+221) T7E
+To what extent do you agree with the following? I feel addicted to the technological devices I have.
+
+
+
+222) T7G
+To what extent do you agree with the following? Technology gives me new and better employment opportunities.
+
+
+
+223) T7F
+To what extent do you agree with the following? I would panic if my phone suddenly stopped working.
+
+
+
+224) T7B
+To what extent do you agree with the following? Technology has improved my relationship with God.
+
+
+
+225) Q77
+[VI. Demographics] Finally, we have a few demographic questions for classification purposes only.  What is your gender?
+
+
+
+226) Q78_M
+What is your date of birth? Month
+
+
+
+227) Q78_D
+What is your date of birth? Day
+
+
+
+228) Q78_Y
+What is your date of birth? Year
+
+
+
+229) Q79
+Are you a citizen of the United States of America?
+
+
+
+230) Q80
+[81] Which of the following BEST describes the place where you now live?
+
+
+
+231) D8
+Are you of Hispanic, Latino, or Spanish origin - such as Mexican, Puerto Rican, Cuban, or other Spanish origin?
+
+
+
+232) D7_1
+Which of the following describes your race? Please mark all that apply. White
+
+
+
+233) D7_2
+Which of the following describes your race? Please mark all that apply. Black or African American
+
+
+
+234) D7_3
+Which of the following describes your race? Please mark all that apply. Asian
+
+
+
+235) D7_4
+Which of the following describes your race? Please mark all that apply. American Indian or Alaska Native
+
+
+
+236) D7_5
+Which of the following describes your race? Please mark all that apply. Native Hawaiian or Pacific Islander
+
+
+
+237) D9
+What is your current marital status?
+
+
+
+238) D11
+What is the highest level of school you have completed or the highest degree you have received?
+
+
+
+239) D14
+Which of the following best describes your place of employment?
+
+
+
+240) Q83
+How many hours did you work last week? (Write in a number)
+
+
+
+241) Q85
+Is your current employer a locally-owned business?
+
+
+
+242) Q92
+How many children do you have? (Write in a number) [Note the skip pattern: If none, mark here - Skip to Question 93]
+
+
+
+243) Q92_NC
+How many children do you have? If none, mark here - Skip to Question 93
+
+
+
+244) Q92A
+How old were you when your first child was born? (Write in a number)
+
+
+
+245) Q93
+How many children under the age of 18 currently live in your household? (Write in a number)
+
+
+
+246) Q93_NC
+How many children under the age of 18 currently live in your household? If none, mark here
+
+
+
+247) D24
+For you personally, what is the ideal number of children that you would like to have? (Write in a number)
+
+
+
+248) Q94
+Which of the following best describes you?
+
+
+
+249) Q95
+By your best estimate, what was your total household income last year, before taxes?
+
+
+
+250) SAMPLE_AGE_CODE
+Sample age code
+
+
+
+251) SAMPLE_ETHNIC_CODE
+Sample ethnic code
+
+
+
+252) SAMPLE_FIPS_CODE
+Sample FIPS code
+
+
+
+253) SAMPLE_STRATUM_KEY
+Sample stratum key
+
+
+
+254) SAMPLE_TIMEZONE
+Sample time zone
+
+
+
+255) SAMPLE_ZIP_CODE
+Sample zip code
+
+
+
+256) WEIGHT
+[Important Constructed Variables] [Weight]
+
+
+
+257) Q1VERB
+Q1VERB
+
+
+
+258) Q2VERB
+Q2VERB
+
+
+
+259) Q5VERB
+Q5VERB
+
+
+
+260) Q77VERB
+Q77VERB
+
+
+
+261) Q82VERB
+Q82VERB
+
+
+
+262) Q1STR
+Q1STR
+
+
+
+263) D14STR
+D14STR
+
+
+
+264) FILTER__
+D14=6 (FILTER)
+
+
+
+265) RACHISP2
+Hispanic, missing not coded
+
+
+
+266) RACE1W
+White and missing recoded
+
+
+
+267) RACE1B
+Black and missing recoded
+
+
+
+268) RACE1A
+Asian and missing recoded
+
+
+
+269) RACE1AI
+American Indian and missing recoded
+
+
+
+270) RACE1NH
+Pacific Islander and missing recoded
+
+
+
+271) RACE1SUM
+Sum of RACE1 1 is single race, larger than 1 is multirace
+
+
+
+272) RACE1ALL
+[Race and Ethnicity] Not applicable. Race coding without Hispanic.
+
+
+
+273) RACE1ALLHISP
+Race categories with Hispanic (incl. missing Hispanic info)
+
+
+
+274) RACE1ALL4
+Race.
+
+
+
+275) ATHEIST
+ATHEIST
+
+
+
+276) CONCERNED_C
+CONCERNED_C
+
+
+
+277) ANGERED_I
+ANGERED_I
+
+
+
+278) INVOLVED_C
+INVOLVED_C
+
+
+
+279) CONCERNED_I
+CONCERNED_I
+
+
+
+280) INVOLVED_I
+INVOLVED_I
+
+
+
+281) ANGERED_C
+ANGERED_C
+
+
+
+282) EVERPRESENT
+EVERPRESENT
+
+
+
+283) CRITICAL
+CRITICAL
+
+
+
+284) DISTANT
+DISTANT
+
+
+
+285) PUNISHING
+PUNISHING
+
+
+
+286) WRATHFUL
+WRATHFUL
+
+
+
+287) FORGIVING
+FORGIVING
+
+
+
+288) DISTANT_REV
+DISTANT_REV
+
+
+
+289) FORGIVING_REV
+FORGIVING_REV
+
+
+
+290) ZCONCERNED_C
+ZCONCERNED_C
+
+
+
+291) ZANGERED_I
+ZANGERED_I
+
+
+
+292) ZINVOLVED_C
+ZINVOLVED_C
+
+
+
+293) ZCONCERNED_I
+ZCONCERNED_I
+
+
+
+294) ZINVOLVED_I
+ZINVOLVED_I
+
+
+
+295) ZANGERED_C
+ZANGERED_C
+
+
+
+296) ZEVERPRESENT
+ZEVERPRESENT
+
+
+
+297) ZCRITICAL
+ZCRITICAL
+
+
+
+298) ZDISTANT_REV
+ZDISTANT_REV
+
+
+
+299) ZPUNISHING
+ZPUNISHING
+
+
+
+300) ZWRATHFUL
+ZWRATHFUL
+
+
+
+301) ZFORGIVING_REV
+ZFORGIVING_REV
+
+
+
+302) JUDGMENT
+JUDGMENT
+
+
+
+303) ENGAGEMENT
+ENGAGEMENT
+
+
+
+304) AUTHGOD
+AUTHGOD
+
+
+
+305) BENGOD
+BENGOD
+
+
+
+306) CRITGOD
+CRITGOD
+
+
+
+307) DISTGOD
+DISTGOD
+
+
+
+308) AGE
+[Age] Age of respondent. [Note: Consider that there are two respondents aged 17.]
+
+
+
+309) RELFAM
+RELFAM
+
+
+
+310) DENOM
+DENOM
+
+
+
+311) ATTEND
+ATTEND
+
+
+
+312) CASEID
+CASEID
+
+
+
+313) RACE
+RACE
+
+
+
+314) RELMISS
+RELMISS
+
+
+
+315) NONE
+NONE
+
+
+
+316) BLACKPROT
+BLACKPROT
+
+
+
+317) JEWISH
+JEWISH
+
+
+
+318) CATHOLIC
+CATHOLIC
+
+
+
+319) OTHER
+OTHER
+
+
+
+320) MAINLINE
+MAINLINE
+
+
+
+321) EVANGELICAL
+EVANGELICAL
+
+
+
+322) RELTRAD
+[Religious Tradition] Not applicable. Religious tradition.
+
+
+
+323) AGER
+(Age) - recoded
+
+
+
+324) LIBCONR
+Political views (Q31) - recoded
+
+
+
+325) PARTYIDR
+Political party affiliation (Q32) - recoded
+
+
+
+326) CHILDSR
+Number of children (Q92) - recoded
+
+
+
+327) HRSWORKD
+Hours worked in the last week (Q83) - recoded
+
+
+
+328) EDUCR
+Highest level of school completed (D11) - recoded
+
+
+
+329) I-AGE
+[Age] Age of respondent. [Note: Consider that there are two respondents aged 17.] (Recoded for use with online analysis)
+
+
+
+330) I-EDUC
+Highest level of school completed (D11) - recoded (for use with online analysis)
+
+
+
+331) I-RACE
+RACE (Recoded for use with online analysis)
+
+
+
+332) I-RELIGION
+[Religious Tradition] Not applicable. Religious tradition. (Recoded for use with online analysis)
+
+
+
