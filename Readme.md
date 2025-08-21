@@ -196,21 +196,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 If you use this package in your research, please cite:
 ```
-[Citation information to be added]
+Lotspeich-Yadao, M. (2025). Preventing inadvertent survey respondent identification through disclosure avoidance review. Accessible at https://github.com/mlots2-illinois/teaching-SurveyDisclosure.
+
 ```
-
-## 📄 License
-
-[License information to be added]
-
-## 📧 Contact
-
-[Contact information to be added]
 
 ## 🙏 Acknowledgments
 
-- Tutorial data provided by the Baylor Religion Survey
-- Inspired by best practices in statistical disclosure control
+- Tutorial data provided from the Baylor Religion Survey
 
 ---
 
