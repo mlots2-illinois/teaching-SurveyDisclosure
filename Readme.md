@@ -265,9 +265,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 If you use this package in your research or teaching, please cite:
 ```
-Lotspeich-Yadao, Michael (2025). disclosure_check: A Complete Educational Package 
-for Survey Disclosure Avoidance in Stata. University of Illinois Urbana-Champaign.
-Available at: [GitHub repository URL]
+Lotspeich-Yadao, Michael (2025). disclosure_check: A Complete Educational Package for Survey Disclosure Avoidance in Stata. University of Illinois Urbana-Champaign. Available at: https://github.com/mlots2-illinois/teaching-SurveyDisclosure.
 ```
 
 ## 👤 Author
